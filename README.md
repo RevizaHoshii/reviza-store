@@ -3,7 +3,7 @@
 Toko online aplikasi premium dan layanan digital terpercaya.
 
 ## 🌐 Live Website
-**👉 [https://your-username.github.io/reviza-store/](https://your-username.github.io/reviza-store/)**
+**👉 [https://revizaloshi.github.io/reviza-store/](https://revizaloshi.github.io/reviza-store/)**
 
 ## 📦 Produk Kami
 - Alight Motion Premium
